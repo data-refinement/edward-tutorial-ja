@@ -310,3 +310,6 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/r,osx,vim,ruby,linux,emacs,python,windows
 
+
+# Jupyter-notebook logs
+/log
